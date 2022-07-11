@@ -9,11 +9,13 @@
     <color name="white">#FFFFFFFF</color>
     <color name="pink_01">#F7B9CE</color>
     <color name="pink_02">#FAEEED</color>
+    <color name="pink_03">#FFD9F5</color>
     <color name="blue">#DCE6FB</color>
     <color name="purple">#B4BDE9</color>
-    <color name="green_01">#cceb8a</color>
-    <color name="green_02">#e5f5a3</color>
-    <color name="green_03">#ffffbb</color>
+    <color name="green_01">#42D5FC</color>
+    <color name="blue_02">#75E1FF</color>
+    <color name="green_03">#8FFCC2</color>
+
 
 
 
